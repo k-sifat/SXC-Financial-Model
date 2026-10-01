@@ -1,0 +1,5 @@
+# SXC Historical Model — Python Dependencies
+ipywidgets>=8.0
+IPython>=8.0
+notebook>=7.0
+streamlit>=1.30.0
