@@ -1,6 +1,6 @@
 # SunCoke Energy (NYSE: SXC) — 3-Statement & Valuation Model
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<username>/<repo>/blob/main/SXC_Historical_Model.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/k-sifat/SXC-Financial-Model/blob/main/SXC_Historical_Model.ipynb)
 
 A Python-based 3-statement financial model and equity valuation for **SunCoke Energy (SXC)**, replicating the full mechanics of `SXC-historical-model.xlsx`. The model projects Income Statement, Balance Sheet, and Cash Flow Statement over a 5-year forecast horizon (FY2026E – FY2030E) and derives two independent price targets.
 
@@ -95,8 +95,8 @@ Click the **"Open in Colab"** badge above. All dependencies are pre-installed in
 ### Option 2: Run Locally
 ```bash
 # Clone the repo
-git clone https://github.com/<username>/<repo>.git
-cd <repo>
+git clone https://github.com/k-sifat/SXC-Financial-Model.git
+cd SXC-Financial-Model
 
 # Install dependencies
 pip install -r requirements.txt
