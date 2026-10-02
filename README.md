@@ -76,7 +76,7 @@ SunCoke Energy is the largest independent producer of coke in the Americas, oper
 
 | Metric | Value |
 |--------|-------|
-| **Current Share Price** | $9.29 |
+| **Current Share Price (as of 8/31/26)** | $8.41 |
 | **EV/EBITDA 3-Yr Price Target** | $12.59 |
 | **DCF Intrinsic Value** | $18.56 |
 | **Blended Price Target** | $15.57 |
